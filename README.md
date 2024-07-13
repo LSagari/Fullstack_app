@@ -19,6 +19,6 @@ The backend should persist the data (in-memory is sufficient). For sending email
 op:
 ![Screenshot 2024-07-13 185216](https://github.com/user-attachments/assets/71502239-ab85-462c-b71f-eec444a9dcc2)
 
-Used Java with springboot as backend, React for the frontend and SMTP to send the mail, h2 db for testing.
+Used Java with springboot as backend, React for the frontend and SMTP to send the mail, h2 db for testing and API testing is using postman.
 
 
